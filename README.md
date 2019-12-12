@@ -1,4 +1,4 @@
-## Your GitHub Learning Lab Repository for Managing Merge change another issue
+## Your GitHub Learning Lab Repository for Managing Merge change another issue chane 
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
